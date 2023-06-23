@@ -1,9 +1,15 @@
-### Hi there 👋
+# Amemorie Github Landing Page
 
+Welcome! Have a look around.
+
+
+## Webpage:
+[amemorie.github.io](#amemorie.github.io)
+
+## Public repositories:
+[Hello World!](#byb_project)\
+[Skills Bootcamp Capstone Project](#finalCapstone)
 <!--
-**amemorie/amemorie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
