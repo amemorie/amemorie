@@ -7,8 +7,8 @@ Welcome! Have a look around.
 [amemorie.github.io](#amemorie.github.io)
 
 ## Public repositories:
-[Hello World!](#byb_project)\
-[Skills Bootcamp Capstone Project](#finalCapstone)
+[Hello World!](#../byb_project)\
+[Skills Bootcamp Capstone Project](#../finalCapstone)
 <!--
 
 - 🔭 I’m currently working on ...
