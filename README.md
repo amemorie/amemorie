@@ -4,7 +4,7 @@ Welcome! Have a look around.
 
 
 ## Webpage:
-[amemorie.github.io](#amemorie.github.io)
+[amemorie.github.io](https://github.com/amemorie/amemorie.github.io)
 
 ## Public repositories:
 [Hello World!](https://github.com/amemorie/byb_project)\
