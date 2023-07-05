@@ -13,7 +13,7 @@ Welcome! Have a look around.
 [Think Python Portfolio](https://github.com/amemorie/thinkpython2)
 
 ## IDL Astro Portfolio
-Incoming here soon. 
+Incoming soon. 
 
 ## Public repositories:
 [Hello World!](https://github.com/amemorie/byb_project)\
