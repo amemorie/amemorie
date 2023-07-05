@@ -3,7 +3,7 @@
 Welcome! Have a look around.
 
 
-## Webpage:
+## CV:
 [amemorie.github.io](https://amemorie.github.io)
 
 ## HyperionDev Software Engineering Skills Bootcamp Portfolio
