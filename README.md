@@ -6,6 +6,15 @@ Welcome! Have a look around.
 ## Webpage:
 [amemorie.github.io](https://amemorie.github.io)
 
+## HyperionDev Software Engineering Skills Bootcamp Portfolio
+[HyperionDev Portfolio](https://github.com/amemorie/hyperiondev)
+
+## Think Python 2 Portfolio
+[Think Python Portfolio](https://github.com/amemorie/thinkpython)
+
+## IDL Astro Portfolio
+Incoming here soon. 
+
 ## Public repositories:
 [Hello World!](https://github.com/amemorie/byb_project)\
 [Skills Bootcamp Capstone Project](https://github.com/amemorie/finalCapstone)
