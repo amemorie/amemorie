@@ -10,7 +10,7 @@ Welcome! Have a look around.
 [HyperionDev Portfolio](https://github.com/amemorie/hyperiondev)
 
 ## Think Python 2 Portfolio
-[Think Python Portfolio](https://github.com/amemorie/thinkpython)
+[Think Python Portfolio](https://github.com/amemorie/thinkpython2)
 
 ## IDL Astro Portfolio
 Incoming here soon. 
